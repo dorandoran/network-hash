@@ -14,14 +14,14 @@ A python version of the client is available as well. (Used for testing server).
 ## Usage
 
 Server: While in server folder directory, run 
-'''python
+```python
 python3 server.py
-'''
+```
 
 Client: While in client folder directory, run
-'''c
+```c
 ./client
-'''
+```
 
 Note: Make sure the files to be sent are in the same directory as client.
 
